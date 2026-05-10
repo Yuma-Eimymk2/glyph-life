@@ -43,6 +43,16 @@ glider drifting toward the edge of the world.
 4. Place your phone face down. Wait.  
    スマホを伏せて待つ
 
+## Tips for Best Experience / 快適に使うために
+
+To prevent Android's Doze mode from slowing down the patterns, exclude Glyph Life from battery optimization:
+
+**Settings → Apps → Glyph Life → Battery → Unrestricted**
+
+Android のバッテリー最適化（Doze モード）を外すと、パターンの動きが遅くならず快適に楽しめます。
+
+**設定 → アプリ → Glyph Life → バッテリー → 制限なし**
+
 ## Requirements / 動作環境
 
 - Nothing Phone (4a) Pro
