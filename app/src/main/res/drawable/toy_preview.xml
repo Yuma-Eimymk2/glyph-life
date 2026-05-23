@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- 背景: 黒い円 -->
+    <path
+        android:pathData="M256,256m-256,0a256,256 0,1 1,512 0a256,256 0,1 1,-512 0"
+        android:fillColor="#000000" />
+
+    <!-- ライフゲームの Glider っぽいパターンを白で配置 -->
+    <!-- 中心 (256, 256) を基準に、適当な位置に5個セルを置く -->
+
+    <!-- セル 1: 上 -->
+    <path
+        android:pathData="M236,196h40v40h-40z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- セル 2: 中央右 -->
+    <path
+        android:pathData="M276,236h40v40h-40z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- セル 3: 下左 -->
+    <path
+        android:pathData="M196,276h40v40h-40z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- セル 4: 下中央 -->
+    <path
+        android:pathData="M236,276h40v40h-40z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- セル 5: 下右 -->
+    <path
+        android:pathData="M276,276h40v40h-40z"
+        android:fillColor="#FFFFFF" />
+</vector>

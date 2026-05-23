@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Glyph Life</string>
+
+    <!-- Glyph Toy 用の文字列 -->
+    <string name="toy_name">Glyph Life</string>
+    <string name="toy_summary">静かに始まる生命</string>
+</resources>

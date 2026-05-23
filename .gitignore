@@ -1,0 +1,30 @@
+# === Credentials (絶対公開禁止) ===
+*.jks
+*.keystore
+keystore.properties
+local.properties
+
+# === Nothing SDK (再配布禁止) ===
+app/libs/glyphsdk_0606.aar
+app/libs/glyph-matrix-sdk-*.aar
+
+# === Build outputs ===
+build/
+app/build/
+.gradle/
+app/release/
+*.apk
+*.aab
+
+# === IDE ===
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# === Captures ===
+captures/
+
+# === Misc ===
+.externalNativeBuild/
+.cxx/
