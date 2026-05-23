@@ -83,6 +83,18 @@ Nothing の再配布条件により含まれていません。自分でビルド
 
 注: 実際の動作確認には Phone (4a) Pro が必要です。
 
+## Security / セキュリティ
+
+The release APK has been scanned by multiple security services:
+
+- **VirusTotal** (0 / 67 detections): https://www.virustotal.com/gui/file/4ddfd55d4ec88f428918c31b74e39605591a5b4e6780bf641b981c9526636988
+- **Koodous** (Android malware analysis): https://koodous.com/apks/4ddfd55d4ec88f428918c31b74e39605591a5b4e6780bf641b981c9526636988/general-information
+
+リリース版 APK は複数のセキュリティサービスでスキャン済みです:
+
+- **VirusTotal** (0 / 67 検出): https://www.virustotal.com/gui/file/4ddfd55d4ec88f428918c31b74e39605591a5b4e6780bf641b981c9526636988
+- **Koodous** (Android マルウェア解析): https://koodous.com/apks/4ddfd55d4ec88f428918c31b74e39605591a5b4e6780bf641b981c9526636988/general-information
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
